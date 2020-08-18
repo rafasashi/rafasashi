@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=rafasashi
+[![Rafasashi's github stats](https://github-readme-stats.vercel.app/api?username=rafasashi)](https://github.com/rafasashi/)
 
 <!--
 - 🔭 I’m currently working on ...
